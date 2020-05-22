@@ -1,6 +1,7 @@
 {
   "name": "@zbinlin/cra-template-typescript",
   "version": "0.0.0",
+  "main": "template.json",
   "keywords": [
     "react",
     "create-react-app",
