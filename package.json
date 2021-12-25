@@ -1,6 +1,6 @@
 {
   "name": "@zbinlin/cra-template-typescript",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "template.json",
   "keywords": [
     "react",
@@ -15,7 +15,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=12"
+    "node": ">=14"
   },
   "bugs": {
     "url": "https://github.com/zbinlin/cra-template-typescript/issues"
